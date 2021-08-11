@@ -1,4 +1,4 @@
-# blog-websiteWEBDEVBOOTCAMP
+# blog-website Udemy 
 Udemy Web Dev Bootcamp instructions based blog website 
 
 
